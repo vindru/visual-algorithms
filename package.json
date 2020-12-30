@@ -69,8 +69,8 @@
   "devDependencies": {
     "@types/jest": "^24.9.1",
     "@types/react-bootstrap-range-slider": "^1.2.0",
-    "@typescript-eslint/eslint-plugin": "^4.2.0",
-    "@typescript-eslint/parser": "^4.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/parser": "^4.0.1",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-typescript": "11.0.0",
     "eslint-config-prettier": "^6.12.0",
