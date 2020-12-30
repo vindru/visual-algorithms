@@ -1,0 +1,14 @@
+.algorithmsSection {
+    display: flex;
+    height: 976px;
+    width: 50%;
+    table-layout: fixed;
+    text-align: center;
+    position: relative;
+}
+.cardsSection{
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}

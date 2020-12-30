@@ -1,0 +1,84 @@
+.logoDiv {
+    opacity: 1;
+    position: absolute;
+    left: 20px;
+    top: 14px;
+    z-index: 1;
+    letter-spacing: 1px;
+    font-size: 1.3em;
+    color: #fff;
+    text-decoration: none;
+}
+
+.toolbar {
+    background-color: #112199;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 1px;
+    font-size: 1.3em;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 10px 0;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 1.1em 1.1em;
+}
+
+.menu a:hover {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.menuHighlight {
+    color: #ffffff;
+    background: transparent;
+    border-width: 2px;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    line-height: 45px;
+}
+
+.menuHighlight a {
+    color: #f3f3f3;
+}
+
+.menuHighlight:hover {
+    color: #f05454;
+    background: #f05454;
+    border-color: #f05454;
+}
+
+li.menuHighlight:hover a {
+    color: #f3f3f3;
+}
+
+.linkedin img:hover {
+    cursor: pointer;
+}
+
+.github {
+    padding-top: 20px;
+    cursor: pointer;
+    padding: 0 1.1em 1.1em;
+}
