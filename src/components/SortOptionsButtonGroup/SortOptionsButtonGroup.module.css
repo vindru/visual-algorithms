@@ -1,0 +1,95 @@
+.sortOptionsButtonGroup {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: 5rem;
+    text-align: right;
+    align-items: center;
+    background-color: #222831;
+}
+
+.slider {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 8px;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out,
+        box-shadow 0.15s ease-in-out;
+    color: #fff;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn:hover:disabled {
+    cursor: not-allowed;
+}
+
+.startButton {
+    margin-right: 20px;
+    background-color: #f05454;
+}
+
+.startButton:hover,
+.startButton:disabled {
+    background-color: #751f1f;
+}
+
+.startButton:focus {
+    outline: 0;
+}
+
+.startButton:not(:disabled):not(.disabled):active,
+.startButton:not(:disabled):not(.disabled).active,
+.startButton.dropdown-toggle {
+    background-color: #f05454;
+    border-color: #f05454;
+}
+
+.startButton:not(:disabled):not(.disabled):active:focus,
+.startButton:not(:disabled):not(.disabled).active:focus,
+.startButton.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem #f05454;
+}
+
+.clearButton {
+    margin-right: 20px;
+    background-color: #30475e;
+}
+
+.clearButton:hover,
+.clearButton:disabled {
+    background-color: #11202e;
+}
+
+.clearButton:focus {
+    outline: 0;
+}
+
+.clearButton:not(:disabled):not(.disabled):active,
+.clearButton:not(:disabled):not(.disabled).active,
+.clearButton.dropdown-toggle {
+    background-color: #30475e;
+    border-color: #30475e;
+}
+
+.clearButton:not(:disabled):not(.disabled):active:focus,
+.clearButton:not(:disabled):not(.disabled).active:focus,
+.clearButton.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem #30475e;
+}

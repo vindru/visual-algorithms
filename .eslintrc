@@ -1,31 +1,17 @@
 {
-  "env": {
-    "browser": true,
-    "es6": true,
-    "jest": true,
-    "node": true
-  },
-  "extends": [
-    "fbjs",
-    "plugin:prettier/recommended"
-  ],
-  "parser": "babel-eslint",
-  "parserOptions": {
-    "sourceType": "module"
-  },
-  "plugins": [
-    "prettier",
-    "jsx-a11y",
-    "react"
-  ],
-  "settings": {
-    "import/resolver": {
-      "webpack": {
-        "config": "./config/webpack.config.prod.js"
-      }
-    },
-    "react": {
-      "version": "16.4.1"
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["@typescript-eslint", "prettier"],
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "prettier"
+    ],
+    "rules": {
+        "no-console": 1, // Means warning
+        "prettier/prettier": 2, // Means error
+        "no-use-before-define": "off",
+        "@typescript-eslint/no-use-before-define": ["error"]
     }
-  }
 }
