@@ -1,17 +1,18 @@
 # Visual Algorithms 
 See how it works https://vindru.github.io/visual-algorithms
 
-Visualizes how an algorithm actually works! 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rajat-vindru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
+<a href="https://twitter.com/RajatVindru" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp;
 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-<!-- Icons -->
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫e <img src="https://github.com/dheeraj-2000/dheeraj-2000/blob/master/gifs/Hi.gif" width="30px"></h2> <br>
 
-[1.2]: https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+</div>
 
-[1]: https://twitter.com/RajatVindru
-[2]: https://www.linkedin.com/in/rajat-vindru/
+⭐ From [Rajat Deepak Vindru](https://github.com/vindru)
+
+
